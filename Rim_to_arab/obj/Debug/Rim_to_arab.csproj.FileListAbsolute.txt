@@ -1,0 +1,8 @@
+C:\Users\Maksim\source\repos\Rim_to_arab\Rim_to_arab\bin\Debug\Rim_to_arab.exe.config
+C:\Users\Maksim\source\repos\Rim_to_arab\Rim_to_arab\bin\Debug\Rim_to_arab.exe
+C:\Users\Maksim\source\repos\Rim_to_arab\Rim_to_arab\bin\Debug\Rim_to_arab.pdb
+C:\Users\Maksim\source\repos\Rim_to_arab\Rim_to_arab\obj\Debug\Rim_to_arab.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\Rim_to_arab\Rim_to_arab\obj\Debug\Rim_to_arab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maksim\source\repos\Rim_to_arab\Rim_to_arab\obj\Debug\Rim_to_arab.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Rim_to_arab\Rim_to_arab\obj\Debug\Rim_to_arab.exe
+C:\Users\Maksim\source\repos\Rim_to_arab\Rim_to_arab\obj\Debug\Rim_to_arab.pdb
