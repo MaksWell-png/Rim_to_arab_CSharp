@@ -2,7 +2,7 @@
 Implementation of the translation of a string of Roman numerals into Arabic.
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
-Symbol=Value
+Symbol=Value: 
 I=1,
 V=5,
 X=10,
